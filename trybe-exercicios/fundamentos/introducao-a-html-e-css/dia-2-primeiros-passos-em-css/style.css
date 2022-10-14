@@ -1,0 +1,32 @@
+
+ h1 {
+            font-family: sans-serif;
+        }
+
+        p {
+            font-size: 2em;
+            font-weight: 600;
+            font-style: inherit;
+        }
+
+        body {
+            font-size: 16px;
+            
+        }
+
+        #yellow {
+            background-color: yellow;
+        }
+
+        #red {
+            background-color: red;
+        }
+
+        #brown {
+            background-color: brown;
+        }
+   
+
+
+
+    
