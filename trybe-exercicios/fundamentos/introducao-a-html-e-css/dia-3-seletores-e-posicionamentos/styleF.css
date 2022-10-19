@@ -2,10 +2,23 @@ h3:hover{
    color: red; border-style: solid;
 }
 
-div {
-    color: aqua;
+div:first-of-type{
+   color: aqua;
 }
 
-div {
-    color: green;
+div:nth-child(4){
+   color: green;
 }
+
+div:nth-last-of-type(3){
+   color: greenyellow;
+}
+
+div:nth-last-of-type(1){
+   color: blueviolet;
+}
+
+div:nth-last-of-type(2){
+   color: crimson;
+}
+
