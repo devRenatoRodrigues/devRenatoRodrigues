@@ -22,7 +22,7 @@ div:nth-last-of-type(2){
    color: crimson;
 }
 
-div:nth-of-type(1) > h3 {
+/* div:nth-of-type(1) > h3 {
    color: purple;
 }
 div:nth-of-type(2) > h3 {
@@ -36,7 +36,9 @@ div:nth-of-type(2) > h3 {
  }
  div:nth-of-type(5) > h3 {
    font-style: italic
- }
-h3:nth-child(odd){
+ } 
+ olhei no gabarito*/
+
+ h3:nth-child(odd){
    font-style: italic;
 }
