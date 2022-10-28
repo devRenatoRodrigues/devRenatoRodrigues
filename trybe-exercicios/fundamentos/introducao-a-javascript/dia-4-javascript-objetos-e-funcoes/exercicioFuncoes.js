@@ -25,16 +25,16 @@
 
 // Crie uma função que receba um array de inteiros e retorne o índice do menor valor.
 
-// let arr = [2, 4, 6, -10, 10, 5, -3];
+let arr = [2, 4, 6, -10, 10, 5, -3];
 
-// function menorI (arr) {
-//     let menorI = 0;
-//     for (let indice in arr) {
-//         if (arr[menorI] > arr[indice]) {
-//             menorI = indice;
-//         }
-//     }
-//     return menorI;
-// }
+function menorI (arr) {
+    let menorI = 0;
+    for (let indice in arr) {
+        if (arr[menorI] > arr[indice]) {
+            menorI = indice;
+        }
+    }
+    return menorI;
+}
 
-// console.log(menorI(arr));
+console.log(menorI(arr));
