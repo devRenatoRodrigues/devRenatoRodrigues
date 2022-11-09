@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.open{
+    text-align: center;
+    background-color: cadetblue;
+    border: 1px solid royalblue;
+    border-radius: 50px;
+    width: 80%;
+    margin: 40px 0;
+    padding: 50px;
+    margin: auto;
+    margin-left: auto;
+}
+
+body{
+ background-color: beige;
+}
+
+
+.open h1 {
+font-size: 45px;
+margin-bottom: 20px;
+}
+
+.acima{
+    font-size: 20px;
+}
+
+#acima{
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+
+.porque {
+    width: 80%;
+    height: 250px;
+    resize: none;
+
+  }
+
+
