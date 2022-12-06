@@ -50,5 +50,4 @@ const mage = {
     return turnSpent
  };
 
- console.log(mageAtack());
-
+ 
