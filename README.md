@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Renato Oliveira</h1>
 <h3 align="center">Fullstack developer from Brazil !</h3>
 
-- 🌱 I’m currently learning **React.js, MaterialUI, Javascript**
+- 🌱 I’m currently learning **Java, Node.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devRenatoRodrigues](https://github.com/devRenatoRodrigues)
 
