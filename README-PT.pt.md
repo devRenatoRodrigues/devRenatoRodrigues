@@ -19,7 +19,7 @@ Tenho 30 anos e sou apaixonado por programação. Passo horas como se fossem min
 Atualmente, estou dedicado a aprimorar minhas habilidades na Trybe, buscando ativamente oportunidades de emprego para aplicar minhas habilidades.
 </p>
 
-<h4 align="center">Connect with me:</h4>
+<h4 align="center">Contatos:</h4>
 <p align="center" >
 <a href="https://linkedin.com/in/devrenatorodrigues" target="blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin devrenatorodrigues"/>
@@ -29,7 +29,7 @@ Atualmente, estou dedicado a aprimorar minhas habilidades na Trybe, buscando ati
 </a>
 </p>
 
-<h5 align="center"> I’m currently learning </h5>
+<h5 align="center"> Atualmente estou aprendendo </h5>
 <p align="center" >
 <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
@@ -37,7 +37,7 @@ Atualmente, estou dedicado a aprimorar minhas habilidades na Trybe, buscando ati
 <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </p>
 
-<h5 align="center">Languages</h5>
+<h5 align="center">Linguagens</h5>
 <p align="center" >
 <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
 <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -45,7 +45,7 @@ Atualmente, estou dedicado a aprimorar minhas habilidades na Trybe, buscando ati
 <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-<h5 align="center">Tools</h5>
+<h5 align="center">Ferramentas</h5>
 <p align="center" >
 <img align="center" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize"/>
 <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whitehttps://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
