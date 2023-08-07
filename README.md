@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/bb/e2/47/bbe2470d1ef6a44772f2015202fbb0ef.gif" alt="the best place in the world">
 </p>
 
-[Leia em português](README.pt.md)
+[Leia em português](README-PT.pt.md)
 
 
 <h1 align="center">Hello World, I'm Renato Rodrigues</h1>
