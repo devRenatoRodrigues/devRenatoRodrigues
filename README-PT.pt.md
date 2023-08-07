@@ -19,7 +19,7 @@ Tenho 30 anos e sou apaixonado por programação. Passo horas como se fossem min
 Atualmente, estou dedicado a aprimorar minhas habilidades na Trybe, buscando ativamente oportunidades de emprego para aplicar minhas habilidades.
 </p>
 
-<h4 align="center">Contatos:</h4>
+<h4 align="center">Contatos</h4>
 <p align="center" >
 <a href="https://linkedin.com/in/devrenatorodrigues" target="blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin devrenatorodrigues"/>
