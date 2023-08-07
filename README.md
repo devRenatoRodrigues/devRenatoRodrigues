@@ -14,7 +14,7 @@
 
 
 <p align="center">
-I'm 30 years old and passionate about programming, I spend hours as if they were minutes in this universe <br>
+I'm passionate about programming, I spend hours as if they were minutes in this universe <br>
 I am currently dedicated to honing my skills at Trybe, actively seeking job opportunities to apply my skills
 </p>
 
