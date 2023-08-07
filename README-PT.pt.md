@@ -1,8 +1,10 @@
-[Read in English ](README.md)
+
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/bb/e2/47/bbe2470d1ef6a44772f2015202fbb0ef.gif" alt="the best place in the world">
 </p>
+
+[Read in English ](README.md)
 
 <h1 align="center">Olá Mundo, eu sou Renato Rodrigues</h1>
 <h3 align="center">Fullstack web developer de São Paulo, Brasil !</h3>
