@@ -15,7 +15,7 @@
 
 
 <p align="center">
-Tenho 30 anos e sou apaixonado por programação. Passo horas como se fossem minutos neste universo. <br>
+Sou apaixonado por programação, passo horas como se fossem minutos neste universo. <br>
 Atualmente, estou dedicado a aprimorar minhas habilidades na Trybe, buscando ativamente oportunidades de emprego para aplicar minhas habilidades.
 </p>
 
